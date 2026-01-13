@@ -92,19 +92,6 @@ Computer Science & Data Science graduate specializing in **Agentic AI**, **RAG S
 
 **Tech:** Python, TensorFlow, Keras, CNN, Django
 
----
-
-## GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kaushik-003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaushik-003&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=kaushik-003&theme=tokyonight&hide_border=true)
-
-</div>
 
 ---
 
